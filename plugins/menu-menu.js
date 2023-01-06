@@ -40,7 +40,7 @@ let datcov = await fetch('https://latam-api.vercel.app/api/covid19?apikey=nekosm
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
-║    ◉— *𝘾ᴙ𝗧𝗮𝗳𝘁𝘆.𝗣𝗮𝗻𝗱𝗮.𝘽𝙤𝙩-𝙈𝘿𝚃* —◉
+║    ◉— *𝘾ᴙ𝗧𝗮𝗳𝘁𝘆.𝗣𝗮𝗻𝗱𝗮.𝘽𝙤𝙩-𝙈𝘿* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
@@ -599,7 +599,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '👑 𝗦𝗛𝗜𝗭𝗨 » 𝗕𝗢𝗧 👑',
+title: '👑 𝘾ᴙ𝗧𝗮𝗳𝘁𝘆.𝗣𝗮𝗻𝗱𝗮.𝘽𝙤𝙩-𝙈𝘿 👑',
 body: null,
 thumbnail: img,
 sourceUrl: `https://chat.whatsapp.com/LwPNmhUV8P76isIyFgEK8E`
