@@ -35,19 +35,19 @@ let datcov = await fetch('https://latam-api.vercel.app/api/covid19?apikey=nekosm
 ┃✯ Recuperados : ${CovidApi.recuperados}
 ┃❥ Tratados : ${CovidApi.activo}
 ┃✞ Fallecidos : ${CovidApi.muertes}
-┃⍟𝗦𝗵𝗶𝘇𝘂 » 𝗕𝗼𝘁⍟ V5.3
+┃⍟𝘾ᴙ𝗧𝗮𝗳𝘁𝘆.𝗣𝗮𝗻𝗱𝗮.𝘽𝙤𝙩-𝙈𝘿⍟ V5.3
 ┗─━─━「 🌎 」━─━─┛\n\n`
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
-║    ◉— *𝚂𝙷𝙸𝚉𝚄 - 𝙱𝙾𝚃* —◉
+║    ◉— *𝘾ᴙ𝗧𝗮𝗳𝘁𝘆.𝗣𝗮𝗻𝗱𝗮.𝘽𝙤𝙩-𝙈𝘿𝚃* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *Owner:* Shizu-Hub
-║➤ *Numero:* wa.me/34623442554
-║➤ *Bot ofc:* wa.me/5492615130362
-║➤ *PayPal:* https://www.paypal.me/NeKosmicOFC
+║➤ *Owner:* 𝘾ᴙ𝗧𝗮𝗳𝘁𝘆.𝗣𝗮𝗻𝗱𝗮
+║➤ *Numero:* wa.me/923051038557
+║➤ *Bot ofc:* wa.me/923051038557
+║➤ *youtub:* https://youtube.com/@mubashirriaz001
 ║➤ *Fecha:* ${date}
 ║➤ *Tiempo activo:* ${uptime}
 ║➤ *Usuarios:* ${rtotalreg}
