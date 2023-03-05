@@ -1,4 +1,14 @@
-# `👑Shizu-Bot👑`
+# `👑             ⢀⡤⠒⠋⠉⠁⢀⠉⠉⠑⠲⢄⡀
+        ⢀⠔⢁⡠⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⠉⢢
+       ⢠⠃⣴⡇.  𝘾ᴙ𝗧𝗮𝗳𝘁𝘆.𝗣𝗮𝗻𝗱𝗮.⢀⢀⠱⡄
+     ⢠⠃⢀⣿⣧  ⣀68227467⢀ ⢀⢀⢀⠈⣆⠹⡀
+     ⡸⢀⢀⠹⣿⣿⣿⣿⣿⣿⣶⣶⣶⣤⡀⢀⢀⣴⡿⢀⡇
+     ⡇⢀⢀⢀⠤⣾⣿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⢀⡇
+     ⢱⢀⣠⣤⣶⣿⣿⣧⣉⣿⣿⡟⣃⣿⢿⡿⢀⢀⢀⢀⡇
+     ⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⢀⢀⢀⢀⢀⡰⠁
+       ⠘⣿⣿⣿⣿⣿⣏⡀⢀⣸⣿⣿⢀⢀⢀⢀⢀⡰⠃
+         ⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⡏⢀⢀⢀⣠⠞
+             ⠈⠙⠿⢿⣿⣿⣿⣿⣇⡠⠔⠊⠁        👑`
 
 <p align="center"> 
   <a href="https://github.com/Shizu-Hub"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+black&color=DCC12E&lines=BIENVENIDO+A+;SHIZU-BOT;ESPERO+QUE+ESTE+BOT;SEA+DE+TU+AGRADO+:v+%F0%9F%91%8B" height="70px"
@@ -12,7 +22,7 @@
 <a href="https://github.com/NeKosmic-NK"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
 </p>
   
-<a href="http://wa.me/34623442554" target="blank"><img src="https://img.shields.io/badge/Shizu-Hub-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/923010989686" target="blank"><img src="https://img.shields.io/badge/Shizu-Hub-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <a href="https://chat.whatsapp.com/Eec9Dd1uVd90Ac0U8mTgUh" target="red"><img src="https://img.shields.io/badge/Dark-Side-25D366?style=for-the-badge&logo=whatsapp&logoColor=red" />
 </a>
