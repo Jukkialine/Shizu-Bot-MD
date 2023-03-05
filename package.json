@@ -1,5 +1,5 @@
 {
-    "name": "Shizu-Bot",
+    "name": "Crafty panda",
     "version": "1.0.0",
     "description": "Sigueme en instagram: @shizu.bot",
     "main": "index.js",
@@ -14,16 +14,16 @@
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
-    "homepage": "https://github.com/Shizu-Hub/Shizu-Bot-MD",
+    "homepage": "https://github.com/Jukkialine/Shizu-Bot-MD",
     "author": {
         "name": "Shizu-Hub"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Shizu-Hub/Shizu-Bot-MD.git"
+        "url": "git+https://github.com/Jukkialine/Shizu-Bot-MD"
     },
     "bugs": {
-        "url": "https://github.com/Shizu-Hub/Shizu-Bot-MD/issues"
+        "url": "https://github.com/Jukkialine/Shizu-Bot-MD"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
